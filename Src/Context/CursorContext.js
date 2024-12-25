@@ -62,8 +62,8 @@ const CursorProvider = ({ children }) => {
     }
 
     return ( < CursorContext.Provider value = {
-            { cursorVariants, cursorBG, mouseEnterHandler, mouseLeaveHandler } } > { children } <
-        /CursorContext.Provider>
+            { cursorVariants, cursorBG, mouseEnterHandler, mouseLeaveHandler } } > { children } 
+    </CursorContext.Provider>
     );
 };
 
