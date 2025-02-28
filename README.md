@@ -1,2 +1,8 @@
 ![forntend](https://github.com/user-attachments/assets/560fb36e-907e-4ede-97cf-9ee6e477e443)
 ![frontend2](https://github.com/user-attachments/assets/f509e1d9-dfb2-43cd-a128-f1102be6bb44)
+![ccc](https://github.com/user-attachments/assets/a132604d-1ac5-4ffd-862b-175ce3a5ea80)
+![png](https://github.com/user-attachments/assets/eac2e2ca-26a5-4d34-a5bb-b5cb91f42d47)
+![aaaa](https://github.com/user-attachments/assets/8dd516f1-fa3c-4f33-a5ac-2d29604ab8a0)
+![ddd](https://github.com/user-attachments/assets/3cdf06cf-cee5-49fa-b4e7-4541832f2a13)
+![rrr](https://github.com/user-attachments/assets/4686e402-5a21-47ba-98ce-c8d917a551af)
+![viber_image_2025-02-24_21-23-19-229](https://github.com/user-attachments/assets/d1398f8a-d080-4771-8978-53e265fdf80e)
